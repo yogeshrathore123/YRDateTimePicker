@@ -10,11 +10,11 @@ Pod::Spec.new do |spec|
 
   spec.name         = "YRDateTimePicker"
   spec.version      = "1.0.0"
-  spec.summary      = "A short description of YRDateTimePicker."
+  spec.summary      = "YRDateTimePicker is used for pick date and time. this will help to get quick date and time."
 
-  spec.description  = "A short description of YRDateTimePicker., A short description of YRDateTimePicker., A short description of YRDateTimePicker."
+  spec.description  = "A short description of YRDateTimePicker., YRDateTimePicker is used for pick date and time. this will help to get quick date and time."
 
-  spec.homepage     = "http://EXAMPLE/YRDateTimePicker"
+  spec.homepage     = "https://github.com/yogeshrathore123/YRDateTimePicker"
 
   spec.license      = "MIT"
   # spec.license      = { :type => "MIT", :file => "FILE_LICENSE" }
